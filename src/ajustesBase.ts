@@ -23,7 +23,7 @@ export const AJUSTES_DE_FABRICA: Ajustes = {
   vibracion: true,
   pases: 3,
   preguntaFinal: true,
-  ocultarPicante: false,
+  ocultarPicante: true,
   reducirAnimaciones: false,
   grano: true,
 };

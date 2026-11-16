@@ -16,6 +16,8 @@ Se juega con un solo móvil, pasándolo entre las dos personas.
 | **Dado de temas** | Sin tablero: un dado de seis caras reparte entre 3 y 9 temas elegidos y sale una tarjeta del tema que queda arriba. |
 | **Cartas** | Sin tablero: preguntas por rondas con cinco cartas en la mano y cartas especiales (roba dos, te la devuelvo, doble, salta turno...). |
 
+> Los modos Caliente e Infierno son para mayores de edad y vienen **ocultos por defecto**. Para verlos hay que desactivar «Ocultar contenido +18» en Ajustes.
+
 ## Qué tiene
 
 - **Tablero en espiral** con casillas especiales: oca, verdad o reto, posada, pozo, cárcel, dados, espejo, pregunta libre y cambio.
@@ -25,7 +27,7 @@ Se juega con un solo móvil, pasándolo entre las dos personas.
 - **Mazos editables** desde Ajustes: activar o desactivar tarjetas, añadir tarjetas propias y editar las existentes.
 - **Pases** para saltarse tarjetas, historial de turnos y resumen de respuestas al final.
 - **Dado en 3D** que cae sobre la mesa y rueda hasta el resultado.
-- **Ajustes**: volumen de música y efectos, vibración, número de pases, pregunta final, ocultar contenido +18, reducir animaciones y textura de papel.
+- **Ajustes**: volumen de música y efectos, vibración, número de pases, pregunta final, ocultar contenido +18 (activado por defecto), reducir animaciones y textura de papel.
 - **Reglas** de cada modo dentro de la partida y un resumen de todos desde el inicio.
 
 ## Tecnología
