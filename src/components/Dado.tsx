@@ -9,7 +9,6 @@ import { sonar } from '../sonido';
 // El dado del juego, dibujado como una ilustración: un cubo con contorno de tinta y caras planas.
 // Es un cubo en 3D de verdad: al tirarlo cae sobre la mesa, bota y rueda hasta quedarse con el
 // resultado arriba. En reposo se ve en tres cuartos, como siempre.
-// (Versiones anteriores: Dado3D.anterior.tsx.txt y DadoIlustrado.anterior.tsx.txt)
 
 const DURACION_TIRADA = 1500; // ms
 const PAUSA_FINAL = 500; // ms quieto mostrando el resultado

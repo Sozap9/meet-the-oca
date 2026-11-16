@@ -44,7 +44,7 @@ src/
   app/          Pantallas (inicio, modos, jugadores, partida, dado, cartas, ajustes, mazos, reglas)
   components/   Tablero, dado, tarjetas, ventanas, ilustraciones
   data/         Mazos, tablero, modos, temas del dado y reglas
-    decks/      Mazos de tarjetas (y versiones anteriores en decks/anteriores)
+    decks/      Mazos de tarjetas
   engine/       Lógica del juego: tiradas, casillas, barajas y modo Cartas
   assets/       Sonidos y texturas
 ```

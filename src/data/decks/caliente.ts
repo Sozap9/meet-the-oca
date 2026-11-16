@@ -15,7 +15,7 @@ import type { Tarjeta } from '../tarjetas';
 import { AMPLIACION_CALIENTE } from './ampliaciones/caliente';
 
 // Caliente (+18), v2: más pícaro y más jugable. Menos charla y más retos, juegos y propuestas.
-// Lo explícito vive en el mazo Infierno. La versión anterior está en anteriores/caliente-v1.ts.
+// Lo explícito vive en el mazo Infierno.
 // Nivel 1 = calentar motores · 2 = subir la temperatura · 3 = lo más atrevido del mazo.
 // Las propuestas (del 1 al 10) sirven para lanzar lo más atrevido sin compromiso.
 

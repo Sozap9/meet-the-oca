@@ -227,7 +227,7 @@ export const semaforo = (texto: string, meta?: Meta): Tarjeta => ({
 });
 
 // Una propuesta ("ducharnos juntos esta noche"): cada uno dice del 1 al 10 cuánto le apetece.
-// Sustituye al semáforo, que ya no se usa en los mazos (se queda solo para los mazos anteriores)
+// Sustituye al semáforo, que ya no se usa en los mazos
 export const propuesta = (texto: string, meta?: Meta): Tarjeta => ({
   tipo: 'pregunta',
   texto: `¿Cuánto te apetece? ${texto}`,
